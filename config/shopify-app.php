@@ -150,7 +150,7 @@ return [
     |
     */
 
-    'app_name' => env('SHOPIFY_APP_NAME', 'Shopify App'),
+    'app_name' => env('SHOPIFY_APP_NAME', 'laravel-first'),
 
     /*
     |--------------------------------------------------------------------------
@@ -175,7 +175,7 @@ return [
     |
     */
 
-    'api_key' => env('SHOPIFY_API_KEY', ''),
+    'api_key' => env('SHOPIFY_API_KEY', 'bb8f9b890ea6c0c8be29b12191496207'),
 
     /*
     |--------------------------------------------------------------------------
@@ -186,7 +186,7 @@ return [
     |
     */
 
-    'api_secret' => env('SHOPIFY_API_SECRET', ''),
+    'api_secret' => env('SHOPIFY_API_SECRET', '00c2377b9cec899bb61ab989efc6ac7e'),
 
     /*
     |--------------------------------------------------------------------------
